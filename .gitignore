@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# optional: build outputs
+dist/
+build/
+
+# optional: OS-specific and editor-specific files
+.DS_Store
+.env
+.vscode/

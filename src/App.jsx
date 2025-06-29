@@ -10,7 +10,8 @@ import Skills from './Skills';
 const App = () => {
   return (
     <div>
-      <h1>Welcome to My React App</h1>
+      <h1>Welcome to My Live React App</h1>
+      <br />
       <Summary />
       <br />
       <Education />
